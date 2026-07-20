@@ -14,7 +14,7 @@ crons = ["0 * * * *"]  # 每小时触发，实际执行频率由 Admin 设置的
 
 [[kv_namespaces]]
 binding = "CONFIG_KV"
-id = "6e1ad3eca0e61db2fb1381efb75b99ac"
+id = "028980ab1b0a4be48d878cd59ec88d34"
 preview_id = "01be699a3f2e4e85a7b907ad1ce87c95"
 
 [vars]
