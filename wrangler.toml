@@ -21,7 +21,6 @@ preview_id = "01be699a3f2e4e85a7b907ad1ce87c95"
 enabled = false
 
 [vars]
-ADMIN_TOKEN = "123456"
 SPEED_TIMEOUT_MS = "5000"   # 源地址延迟阈值（毫秒）
 SITE_TIMEOUT_MS = "3000"    # 站点 ：API 延迟阈值（毫秒）
 FETCH_TIMEOUT_MS = "5000"   # 抓取配置 JSON 超时（毫秒）
